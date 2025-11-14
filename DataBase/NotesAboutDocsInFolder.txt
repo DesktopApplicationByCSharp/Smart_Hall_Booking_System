@@ -1,0 +1,12 @@
+## Files That Create Here  ##
+1-  HallEaseDB.sql  {Scripts For Create Tables}
+2-  ERD_Schema.png {Paint Data Base}
+3-   DB_Notes.txt { Notes About Keys And Relationships}
+
+
+
+
+
+
+
+
